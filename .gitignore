@@ -1,0 +1,10 @@
+*.dat
+.idea/
+A2022JudgeData/
+A2022Solutions/
+A2022Solutions_JudgeData_OutFiles/
+A2022JudgeOutput/
+A2022StudentData/
+out/
+*.iml
+*.pdf
